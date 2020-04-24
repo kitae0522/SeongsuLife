@@ -1,2 +1,6 @@
 # SeongsuLife
-Seongsu Middle school SeongsuLife
+> 성수중학교 카카오톡 봇 성수라이프 깃헙주소 (https://github.com/kitae0522/SeongsuLife)
+
+안녕하세요. 송기태입니다.
+
+~~카카오톡에서 성수라이프를 이용하실 수 있습니다.~~ 현재 사용 불가능합니다. (2020.01.08)
